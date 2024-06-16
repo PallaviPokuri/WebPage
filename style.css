@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+    background: url(image.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+.center{
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid whitesmoke;
+    background-color: antiquewhite;
+}
+
+.one{
+    font-size: 20px;
+    color: white;
+    margin-left: inherit;
+    text-align: center;
+}
+.two, a{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    text-indent: 120px;
+}
+
+.three{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    text-indent: 50px;
+}
+.n1{
+    display: inline-block;
+    margin-right: 500px;
+}
+.n2{
+    display: inline-block;
+    margin-right: 575px;
+}
+.n3{
+    display: inline-block;
+    margin-right: 100px;
+}
+.n4{
+    display: inline;
+    margin-right:300px; 
+}
+.n5{
+    display: inline;
+    margin-right: 100px;
+}
